@@ -17,7 +17,7 @@ const shots = [
 
 /** Shown in the website card: what every website comes with. */
 const included = [
-  { icon: Languages, label: "English & Arabic" },
+  { icon: Languages, label: "English & Bengali" },
   { icon: Smartphone, label: "Great on phones" },
   { icon: Zap, label: "Fast loading" },
   { icon: ShieldCheck, label: "Safe & secure" },

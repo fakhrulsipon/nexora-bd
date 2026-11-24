@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Reveal } from "./reveal";
 import { siteConfig } from "@/data/site";
 
-const trustPoints = ["Free quote", "Clear plan & timeline", "English & Arabic"];
+const trustPoints = ["Free quote", "Clear plan & timeline", "100% Satisfaction"];
 
 /** Compact call-to-action band shown at the bottom of the home page. */
 export function CtaSection() {

@@ -100,11 +100,11 @@ export interface ShowcaseItem {
  * The home page now shows real projects from src/data/projects.ts instead.
  */
 export const showcase: ShowcaseItem[] = [
-  { title: "Business Website", category: "Web", service: "website-development", description: "Bilingual 5-page site with WhatsApp & Google Maps.", tags: ["EN / AR", "SEO", "WhatsApp"], visual: "business" },
+  { title: "Business Website", category: "Web", service: "website-development", description: "Modern business site with WhatsApp & Google Maps.", tags: ["EN / BN", "SEO", "WhatsApp"], visual: "business" },
   { title: "E-commerce Store", category: "Web", service: "website-development", description: "Products, cart, checkout and online payment.", tags: ["Checkout", "Payments"], visual: "ecommerce" },
   { title: "Shopping App", category: "App", service: "mobile-app-development", description: "Android & iOS app with order tracking.", tags: ["Android", "iOS"], visual: "app" },
   { title: "Lead Landing Page", category: "Web", service: "website-development", description: "One fast page built to capture leads.", tags: ["Fast", "Lead form"], visual: "landing" },
-  { title: "Meta Ads Campaign", category: "Marketing", service: "meta-ads", description: "Instagram & Facebook ads for Qatar audiences.", tags: ["Reels", "Retargeting"], visual: "ads" },
+  { title: "Meta Ads Campaign", category: "Marketing", service: "meta-ads", description: "Targeted Instagram & Facebook advertising campaigns.", tags: ["Reels", "Retargeting"], visual: "ads" },
   { title: "Analytics Dashboard", category: "Marketing", service: "google-analytics-tracking", description: "GA4 + Tag Manager with a monthly dashboard.", tags: ["GA4", "GTM"], visual: "analytics" },
 ];
 

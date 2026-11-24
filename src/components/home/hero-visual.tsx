@@ -16,7 +16,7 @@ function LaptopScreen() {
         <span className="size-[0.35rem] rounded-full bg-emerald-400 sm:size-1.5" />
         <span className="ml-[4%] h-[0.4rem] w-[38%] rounded-full bg-slate-100 sm:h-2" />
         <span className="ml-auto rounded-full bg-brand-50 px-[2%] text-[clamp(0.3rem,0.8vw,0.55rem)] font-bold text-brand-700">
-          EN | ع
+          BD | EN
         </span>
       </div>
       {/* Website hero */}
@@ -122,7 +122,7 @@ export function HeroVisual() {
           <Languages className="size-4 sm:size-5" />
         </span>
         <span className="leading-tight">
-          <span className="block text-sm font-extrabold text-navy-950 sm:text-base">English & Arabic</span>
+          <span className="block text-sm font-extrabold text-navy-950 sm:text-base">English & Bengali</span>
           <span className="block text-[0.65rem] text-muted-foreground sm:text-xs">Websites in both languages</span>
         </span>
       </div>

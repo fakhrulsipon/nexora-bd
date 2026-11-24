@@ -4,17 +4,16 @@ import { Eyebrow } from "@/components/shared/section-heading";
 import { Reveal, Stagger, StaggerItem } from "@/components/shared/reveal";
 import { QatarGlobe } from "@/components/three/qatar-globe";
 import { qatarPoints } from "@/data/content";
-import dohaSunset from "@/assets/images/doha-sunset.jpg";
+import devWorkspace from "@/assets/images/dev-workspace.jpg";
 
-/** "Built for Qatar" — dark panel with the four local selling points and a live 3D globe centred on Doha. */
+/** "Built for Growth" — dark panel with local selling points and a live 3D globe. */
 export function QatarSection() {
   return (
     <section aria-labelledby="qatar-title" className="px-3 py-16 sm:px-4 sm:py-24">
       <Reveal>
         <div data-gsap-zoom className="relative isolate mx-auto max-w-[84rem] overflow-hidden rounded-[2rem] bg-navy-950 shadow-lift">
-          {/* Doha skyline, softly blended into the dark panel */}
           <Image
-            src={dohaSunset}
+            src={devWorkspace}
             data-gsap-parallax
             alt=""
             fill

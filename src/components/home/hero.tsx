@@ -82,7 +82,7 @@ export function Hero() {
             <p className="text-sm leading-snug text-slate-600">
               <span className="font-semibold text-navy-950">{serviceStats.webServices} website services</span> under one roof
               <br />
-              English & Arabic · Great on phones
+              English & Bengali · Great on phones
             </p>
           </div>
         </div>

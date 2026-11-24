@@ -10,6 +10,8 @@ export function LogoMark({ className, light = false }: { className?: string; lig
   return (
     <div className={cn("relative inline-flex shrink-0 items-center justify-center", className)}>
       <svg
+        width="36"
+        height="30"
         viewBox="0 0 48 40"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

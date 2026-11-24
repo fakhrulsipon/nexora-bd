@@ -55,7 +55,7 @@ const buildCards: BuildCard[] = [
   {
     slug: "website-development",
     title: "Websites",
-    line: "Business sites, online stores and landing pages in English & Arabic.",
+    line: "Business sites, online stores and landing pages in English & Bengali.",
     image: designStudio,
     alt: "Website designs on two desktop monitors in a design studio",
     tag: `${webCount} website services`,
@@ -177,7 +177,7 @@ export default function AboutPage() {
                 <Languages className="size-5" aria-hidden="true" />
               </span>
               <span className="leading-tight">
-                <span className="block text-sm font-extrabold text-navy-950">English & Arabic</span>
+                <span className="block text-sm font-extrabold text-navy-950">English & Bengali</span>
                 <span className="block text-xs text-muted-foreground">Every website & app</span>
               </span>
             </div>
